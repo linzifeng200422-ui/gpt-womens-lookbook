@@ -1,0 +1,3429 @@
+{
+  "metadata": {
+    "version": "2026-10-26",
+    "source_url": "https://www.douyin.com/note/7700222095887764779",
+    "coordinate_system": "normalized top-left x/y/width/height in the whole source page",
+    "expected_pose_count": 155,
+    "actual_pose_count": 155,
+    "pose_pages": 18,
+    "instruction_page": "19.webp",
+    "note": "Human visual index; printed IDs are sparse. Boxes can include nearby collage fragments; inspect source and crop before use."
+  },
+  "pages": [
+    {
+      "page": "01.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    },
+    {
+      "page": "02.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "03.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "04.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "05.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "06.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "07.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "08.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "09.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "10.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "11.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "12.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 9
+    },
+    {
+      "page": "13.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    },
+    {
+      "page": "14.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    },
+    {
+      "page": "15.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    },
+    {
+      "page": "16.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    },
+    {
+      "page": "17.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    },
+    {
+      "page": "18.webp",
+      "width": 1472,
+      "height": 2082,
+      "count": 8
+    }
+  ],
+  "poses": [
+    {
+      "id": "p01-f001",
+      "page": "01.webp",
+      "figure_id": "001",
+      "box": [
+        0.082459,
+        0.082097,
+        0.175412,
+        0.323093
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "三分之二侧身站立，重心偏一腿，另一腿向侧前方伸出",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手插短裤口袋",
+      "outfit_visible_zh": "棕色长袖拼蕾丝背心、格纹短裤、尖头低跟鞋",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f002",
+      "page": "01.webp",
+      "figure_id": "002",
+      "box": [
+        0.263118,
+        0.082627,
+        0.113943,
+        0.323093
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面直立，双腿较近，肩膀放松",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手背在身后不可见",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色工装阔腿裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f003",
+      "page": "01.webp",
+      "figure_id": "003",
+      "box": [
+        0.166417,
+        0.409428,
+        0.153673,
+        0.260593
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "身体向后倾，膝盖弯曲，双脚前后错开",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双手抬至头侧，一手扶另一手腕",
+      "outfit_visible_zh": "黑色流苏外套、黑色长裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f004",
+      "page": "01.webp",
+      "figure_id": "004",
+      "box": [
+        0.347826,
+        0.409958,
+        0.135682,
+        0.311441
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面并腿站立，双肩略收",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手在身前低位相扣",
+      "outfit_visible_zh": "白色短袖叠灰棕背心、黑流苏颈饰、棕色皮裙、黑跟鞋",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f005",
+      "page": "01.webp",
+      "figure_id": "005",
+      "box": [
+        0.644678,
+        0.213983,
+        0.149175,
+        0.302966
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，一腿侧向打开，身体略偏重心",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "一手插裤袋，另一手垂下持棕色包",
+      "outfit_visible_zh": "深蓝衬衫、米色阔腿裤、棕色包、鞋尖",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f006",
+      "page": "01.webp",
+      "figure_id": "006",
+      "box": [
+        0.489505,
+        0.271716,
+        0.150675,
+        0.318856
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双脚分开，肩膀略向前",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双臂自然垂下，手部分被长袖遮挡",
+      "outfit_visible_zh": "棕红皮外套、绿色阔腿裤、露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f007",
+      "page": "01.webp",
+      "figure_id": "007",
+      "box": [
+        0.552474,
+        0.595339,
+        0.121439,
+        0.303496
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，脚步略交错，身体微微偏斜",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "双手置髋侧或口袋，部分遮住",
+      "outfit_visible_zh": "黑色长裙套装、黄色长流苏围饰、黑凉鞋",
+      "uncertainties": [
+        "手部被衣服遮挡，是否入袋不确定"
+      ],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p01-f008",
+      "page": "01.webp",
+      "figure_id": "008",
+      "box": [
+        0.727136,
+        0.521716,
+        0.147676,
+        0.324153
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，脚踝相近，单侧髋部偏移",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手插裤袋，另一手垂于体侧",
+      "outfit_visible_zh": "浅蓝条纹衬衫、黑流苏腰饰、黑长裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13"
+    },
+    {
+      "id": "p02-f070",
+      "page": "02.webp",
+      "figure_id": "070",
+      "box": [
+        0.386057,
+        0.146716,
+        0.191904,
+        0.349047
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿分开站立，躯干微扭，抬下巴向侧上方",
+      "gaze_zh": "看画面右上方",
+      "expression_zh": "平静",
+      "hands_zh": "双手在腹前交叠，一手搭另一手腕",
+      "outfit_visible_zh": "棕色长袖拼蕾丝上衣、格纹短裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f029",
+      "page": "02.webp",
+      "figure_id": "029",
+      "box": [
+        0.065217,
+        0.252648,
+        0.189655,
+        0.175318
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "侧坐低位，躯干向前支撑，双腿朝画面右侧",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双掌撑在身前地面",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色长裤",
+      "uncertainties": [
+        "源图裁片截断右侧腿部和脚，不能判断完整下肢"
+      ],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f137",
+      "page": "02.webp",
+      "figure_id": "137",
+      "box": [
+        0.554723,
+        0.237288,
+        0.154423,
+        0.166843
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面站立，上身略扭，一肘高抬",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手放脑后，另一手触颈侧",
+      "outfit_visible_zh": "棕色长袖拼蕾丝上衣、格纹短裤上缘",
+      "uncertainties": [
+        "源图在短裤位置截断，腿未显示"
+      ],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f132",
+      "page": "02.webp",
+      "figure_id": "132",
+      "box": [
+        0.218141,
+        0.323093,
+        0.147676,
+        0.360699
+      ],
+      "framing": "full",
+      "action_family": "gesture",
+      "pose_zh": "双腿分开站立，身体向侧面延伸，双臂向头顶举高",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手在头顶相搭成拱形",
+      "outfit_visible_zh": "黑色长裙套装、黄色长流苏围饰、黑凉鞋",
+      "uncertainties": [],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f017",
+      "page": "02.webp",
+      "figure_id": "017",
+      "box": [
+        0.673163,
+        0.353284,
+        0.147676,
+        0.320445
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双腿分开，一侧肩略低",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双臂在胸前交叉",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色工装阔腿裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f099",
+      "page": "02.webp",
+      "figure_id": "099",
+      "box": [
+        0.101199,
+        0.511653,
+        0.144678,
+        0.296081
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "身体前倾，髋部后移，双膝微屈",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "双手下放贴在大腿膝盖附近",
+      "outfit_visible_zh": "黑流苏外套、黑长裤、棕色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f042",
+      "page": "02.webp",
+      "figure_id": "042",
+      "box": [
+        0.345577,
+        0.629237,
+        0.152924,
+        0.225106
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面站立，上身放松略偏髋",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手背后，另一手垂体侧",
+      "outfit_visible_zh": "黑色流苏外套、黑长裤上部",
+      "uncertainties": [
+        "源图于大腿处水平截断，脚未显示"
+      ],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f048",
+      "page": "02.webp",
+      "figure_id": "048",
+      "box": [
+        0.505997,
+        0.602754,
+        0.196402,
+        0.25
+      ],
+      "framing": "full",
+      "action_family": "crouching",
+      "pose_zh": "双腿分开屈膝下蹲，躯干侧倾",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "一手撑髋，另一手托脸侧",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色阔腿裤、黑尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p02-f095",
+      "page": "02.webp",
+      "figure_id": "095",
+      "box": [
+        0.715142,
+        0.693856,
+        0.171664,
+        0.195975
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "躯干转向一侧，双肘外开",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手置腰后或髋侧",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色工装裤上部",
+      "uncertainties": [
+        "源图于大腿上部截断；手被衣服遮住，是否入袋不确定"
+      ],
+      "source_sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0"
+    },
+    {
+      "id": "p03-f015",
+      "page": "03.webp",
+      "figure_id": "015",
+      "box": [
+        0.384558,
+        0.229873,
+        0.14093,
+        0.149894
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "上身从腰部向前俯，头低垂",
+      "gaze_zh": "低头看画面右下",
+      "expression_zh": "微笑",
+      "hands_zh": "双手置髋后或裤袋附近",
+      "outfit_visible_zh": "浅蓝条纹衬衫、黑流苏腰饰、黑裤上部",
+      "uncertainties": [
+        "源裁片顶部切掉少量头发，底部截于大腿；手部遮挡"
+      ],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f032",
+      "page": "03.webp",
+      "figure_id": "032",
+      "box": [
+        0.649175,
+        0.144597,
+        0.209895,
+        0.380826
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿分开站立，低头略弓肩",
+      "gaze_zh": "看手中物品",
+      "expression_zh": "微笑",
+      "hands_zh": "双手在腹前持手机状黑色物品",
+      "outfit_visible_zh": "棕红皮外套、绿色阔腿裤、露趾鞋",
+      "uncertainties": [
+        "手中物体外形似手机，细节不确定"
+      ],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f153",
+      "page": "03.webp",
+      "figure_id": "153",
+      "box": [
+        0.20015,
+        0.395657,
+        0.130435,
+        0.154661
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "正面上身前收，双肘靠近身体",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手在唇前交握，指尖贴近嘴",
+      "outfit_visible_zh": "黑流苏外套、黑裤上部",
+      "uncertainties": [
+        "源图于髋部截断，座位及完整下肢不可见"
+      ],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f148",
+      "page": "03.webp",
+      "figure_id": "148",
+      "box": [
+        0.488006,
+        0.336335,
+        0.175412,
+        0.308263
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "三分之二侧身站立，一腿承重，另一脚向前",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "一手撑腰，另一手沿大腿侧下垂",
+      "outfit_visible_zh": "黑色长裙套装、黄色长流苏围饰、黑凉鞋",
+      "uncertainties": [],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f074",
+      "page": "03.webp",
+      "figure_id": "074",
+      "box": [
+        0.33958,
+        0.46822,
+        0.127436,
+        0.289725
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "轻步向前迈步，躯干稍转侧面",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "微笑",
+      "hands_zh": "双手自然下垂随步伐摆动",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色工装阔腿裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f106",
+      "page": "03.webp",
+      "figure_id": "106",
+      "box": [
+        0.757121,
+        0.518008,
+        0.161919,
+        0.159958
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "双腿分开坐低位，上身前倾",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "前臂放大腿，双手在膝间交叠",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色长裤",
+      "uncertainties": [
+        "源图在膝附近截断，脚及座位未显示"
+      ],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f078",
+      "page": "03.webp",
+      "figure_id": "078",
+      "box": [
+        0.077211,
+        0.578919,
+        0.217391,
+        0.260593
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面上身略侧倾，双肘打开",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微张嘴",
+      "hands_zh": "一手放脑后，另一手抬在肩侧",
+      "outfit_visible_zh": "浅蓝条纹衬衫、黑流苏腰饰、黑裤上部",
+      "uncertainties": [
+        "源图于大腿处截断"
+      ],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f021",
+      "page": "03.webp",
+      "figure_id": "021",
+      "box": [
+        0.324588,
+        0.760593,
+        0.178411,
+        0.104343
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "俯卧地面，上身由前臂撑起，双小腿向上弯起",
+      "gaze_zh": "看镜头方向",
+      "expression_zh": "平静",
+      "hands_zh": "前臂撑地，双手伸向画面右侧",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色长裤、黑尖头鞋",
+      "uncertainties": [
+        "源图右边缘截断部分手部，不能补全"
+      ],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p03-f104",
+      "page": "03.webp",
+      "figure_id": "104",
+      "box": [
+        0.627436,
+        0.636653,
+        0.137931,
+        0.259004
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "三分之二侧身站立，双腿交错",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "一手指尖触唇边，另一手下垂提棕色包",
+      "outfit_visible_zh": "深蓝衬衫、米色阔腿裤、棕色包、鞋尖",
+      "uncertainties": [],
+      "source_sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733"
+    },
+    {
+      "id": "p04-f172",
+      "page": "04.webp",
+      "figure_id": "172",
+      "box": [
+        0.149925,
+        0.081568,
+        0.109445,
+        0.31303
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "三分之二侧身站立，肩向侧面转，双腿靠近",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "微笑",
+      "hands_zh": "双手背后",
+      "outfit_visible_zh": "深蓝衬衫、米色阔腿裤、鞋尖",
+      "uncertainties": [],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f059",
+      "page": "04.webp",
+      "figure_id": "059",
+      "box": [
+        0.723388,
+        0.199682,
+        0.110195,
+        0.299788
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "身体侧转，脸回向镜头，双脚前后错开",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双臂自然垂在身体两侧",
+      "outfit_visible_zh": "黑色长裙套装、黄色长流苏围饰、黑凉鞋",
+      "uncertainties": [],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f075",
+      "page": "04.webp",
+      "figure_id": "075",
+      "box": [
+        0.467766,
+        0.275953,
+        0.153673,
+        0.17214
+      ],
+      "framing": "half",
+      "action_family": "crouching",
+      "pose_zh": "深屈膝蹲低，躯干向前靠近膝盖",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "双手合并贴于一侧脸颊",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色长裤",
+      "uncertainties": [
+        "源图底部截断膝下和脚，不能称完整全身"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f170",
+      "page": "04.webp",
+      "figure_id": "170",
+      "box": [
+        0.16042,
+        0.397246,
+        0.131934,
+        0.138242
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "头部微倾，上身贴近画面",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "一手指尖扶额头太阳穴",
+      "outfit_visible_zh": "棕黑上衣肩胸部分",
+      "uncertainties": [
+        "源图仅头肩及胸部，左右与底边均有裁切"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f102",
+      "page": "04.webp",
+      "figure_id": "102",
+      "box": [
+        0.290855,
+        0.400953,
+        0.245127,
+        0.254237
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身正面，头转向侧面，双臂分开作轻盈动作",
+      "gaze_zh": "看画面左侧",
+      "expression_zh": "平静",
+      "hands_zh": "两手抬至腰胸间，一掌朝外、一腕下垂",
+      "outfit_visible_zh": "浅蓝条纹衬衫、黑流苏腰饰、黑裤上部",
+      "uncertainties": [
+        "源图于大腿处截断；印刷102位置靠人物右下，按近邻视觉对应",
+        "印刷编号按整页一对一版式复核为高置信视觉关联，原页没有编号连线。"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f142",
+      "page": "04.webp",
+      "figure_id": "142",
+      "box": [
+        0.043478,
+        0.586335,
+        0.282609,
+        0.220339
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐在地面，双腿向画面左前方伸直，身体略后仰",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手在髋两侧后方撑地",
+      "outfit_visible_zh": "浅蓝条纹衬衫、黑流苏腰饰、黑长裤、黑鞋",
+      "uncertainties": [
+        "印刷142位于人物右上，按近邻视觉对应",
+        "印刷编号按整页一对一版式复核为高置信视觉关联，原页没有编号连线。"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f182",
+      "page": "04.webp",
+      "figure_id": "182",
+      "box": [
+        0.504498,
+        0.559322,
+        0.207646,
+        0.217691
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面站立，双肘外展",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双手伸至后颈或发根处",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色工装裤上部",
+      "uncertainties": [
+        "源图于大腿处截断；印刷182位于右上，按近邻视觉对应",
+        "印刷编号按整页一对一版式复核为高置信视觉关联，原页没有编号连线。"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f121",
+      "page": "04.webp",
+      "figure_id": "121",
+      "box": [
+        0.361319,
+        0.721928,
+        0.17991,
+        0.193326
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面站立，肩放松，双肘略外开",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手平贴下腹，指尖朝下靠近",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色裤上部",
+      "uncertainties": [
+        "源图于大腿处截断；印刷121在左上方，按近邻视觉对应",
+        "印刷编号按整页一对一版式复核为高置信视觉关联，原页没有编号连线。"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p04-f167",
+      "page": "04.webp",
+      "figure_id": "167",
+      "box": [
+        0.748876,
+        0.654661,
+        0.111694,
+        0.185911
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "背部三分之二侧向镜头，回头越肩看镜头",
+      "gaze_zh": "回头直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双臂在身前弯曲，手部不可见",
+      "outfit_visible_zh": "棕红皮外套背面、绿色裤上部",
+      "uncertainties": [
+        "源图在大腿上部截断"
+      ],
+      "source_sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614"
+    },
+    {
+      "id": "p05-f077",
+      "page": "05.webp",
+      "figure_id": "077",
+      "box": [
+        0.341829,
+        0.091631,
+        0.130435,
+        0.319915
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双脚靠近略交错",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "一手平放腹前，另一手自然垂下",
+      "outfit_visible_zh": "黄绿色长衬衫、棕色工装阔腿裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f135",
+      "page": "05.webp",
+      "figure_id": "135",
+      "box": [
+        0.08096,
+        0.229873,
+        0.151424,
+        0.216102
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "躯干前倾，髋部后移，双膝微弯",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手分别撑在大腿近膝处",
+      "outfit_visible_zh": "黑流苏外套、黑长裤上部",
+      "uncertainties": [
+        "源图于膝附近截断，鞋未显示"
+      ],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f175",
+      "page": "05.webp",
+      "figure_id": "175",
+      "box": [
+        0.470765,
+        0.203919,
+        0.169415,
+        0.193856
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面略扭髋，双肘朝外",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "双手插髋侧口袋或置腰侧",
+      "outfit_visible_zh": "黑色套装上部、黄色长流苏围饰",
+      "uncertainties": [
+        "源图于髋下截断；手部部分藏于衣服"
+      ],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f124",
+      "page": "05.webp",
+      "figure_id": "124",
+      "box": [
+        0.658921,
+        0.300318,
+        0.191904,
+        0.321504
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，身体略向侧边倾，头低垂",
+      "gaze_zh": "向下看",
+      "expression_zh": "平静",
+      "hands_zh": "一手伸侧下方平撑，另一手指尖触唇边",
+      "outfit_visible_zh": "白短袖叠灰棕背心、黑流苏颈饰、棕色皮裙、黑跟鞋",
+      "uncertainties": [
+        "侧撑位置的支撑物不可见"
+      ],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f109",
+      "page": "05.webp",
+      "figure_id": "109",
+      "box": [
+        0.122189,
+        0.476165,
+        0.125187,
+        0.288665
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "歪头侧倾，双腿轻度交错，一膝内收",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双臂在胸前交叉",
+      "outfit_visible_zh": "棕色长袖拼蕾丝上衣、格纹短裤、尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f144",
+      "page": "05.webp",
+      "figure_id": "144",
+      "box": [
+        0.351574,
+        0.450212,
+        0.184408,
+        0.163665
+      ],
+      "framing": "full",
+      "action_family": "crouching",
+      "pose_zh": "深蹲，双膝向外打开，躯干在两腿之间前倾",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双臂向下伸，双手指尖触地",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色阔腿裤、黑鞋",
+      "uncertainties": [],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f145",
+      "page": "05.webp",
+      "figure_id": "145",
+      "box": [
+        0.712894,
+        0.616525,
+        0.147676,
+        0.161547
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "坐姿前倾，颈部伸长并抬下巴",
+      "gaze_zh": "向镜头上方",
+      "expression_zh": "平静",
+      "hands_zh": "双臂下伸，手落于膝前但源图底部截断",
+      "outfit_visible_zh": "白短袖叠灰棕背心、黑流苏颈饰、棕色皮裙",
+      "uncertainties": [
+        "源图于膝附近裁切，双手部分及脚未显示"
+      ],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f079",
+      "page": "05.webp",
+      "figure_id": "079",
+      "box": [
+        0.437781,
+        0.641419,
+        0.268366,
+        0.247881
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "地面坐姿后仰，双腿大幅向前打开，一脚朝镜头",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双手在髋后两侧撑地",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色阔腿裤、黑尖头鞋",
+      "uncertainties": [
+        "源图裁片右边截断远侧鞋外缘"
+      ],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p05-f083",
+      "page": "05.webp",
+      "figure_id": "083",
+      "box": [
+        0.258621,
+        0.740996,
+        0.20015,
+        0.09375
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面上身，双肘向两侧打开",
+      "gaze_zh": "看镜头方向",
+      "expression_zh": "平静",
+      "hands_zh": "双手放脑后",
+      "outfit_visible_zh": "黑色上衣、黄色流苏围饰",
+      "uncertainties": [
+        "源图胸口以下及两侧手肘边缘为截断"
+      ],
+      "source_sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce"
+    },
+    {
+      "id": "p06-f071",
+      "page": "06.webp",
+      "figure_id": "071",
+      "box": [
+        0.125187,
+        0.078919,
+        0.133433,
+        0.311441
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面微侧身站立，双腿交错，单肩稍低",
+      "gaze_zh": "看镜头方向",
+      "expression_zh": "平静",
+      "hands_zh": "一手背在身后，另一手自然下垂",
+      "outfit_visible_zh": "白短袖叠灰棕背心、黑流苏颈饰、棕色皮裙、黑跟鞋",
+      "uncertainties": [],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f173",
+      "page": "06.webp",
+      "figure_id": "173",
+      "box": [
+        0.234633,
+        0.153602,
+        0.187406,
+        0.302436
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "完整侧身朝画面左方迈步，前后脚分开",
+      "gaze_zh": "看画面左侧",
+      "expression_zh": "微笑",
+      "hands_zh": "双手插裙侧口袋",
+      "outfit_visible_zh": "白短袖叠灰棕背心、黑流苏颈饰、棕色皮裙、黑跟鞋",
+      "uncertainties": [],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f096",
+      "page": "06.webp",
+      "figure_id": "096",
+      "box": [
+        0.606447,
+        0.256886,
+        0.198651,
+        0.26589
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐高位后仰，一膝抬起横向外开，另一腿下垂",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "一手放抬起的膝盖，另一手在身侧后方支撑",
+      "outfit_visible_zh": "棕黑条纹上衣、黄色阔腿裤、黑鞋",
+      "uncertainties": [
+        "座椅被抠图去除不可见"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f177",
+      "page": "06.webp",
+      "figure_id": "177",
+      "box": [
+        0.484258,
+        0.373941,
+        0.169415,
+        0.157839
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "盘腿坐地，上身微侧倾",
+      "gaze_zh": "直视镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手托腮，另一手落腿边",
+      "outfit_visible_zh": "黑流苏外套、黑长裤、棕色尖头鞋",
+      "uncertainties": [
+        "源图右侧裁片边缘截断少量身体/腿部外轮廓"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f087",
+      "page": "06.webp",
+      "figure_id": "087",
+      "box": [
+        0.095952,
+        0.461335,
+        0.271364,
+        0.278072
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "身体后倾，头向一侧后方歪，颈部伸展",
+      "gaze_zh": "闭眼或向下，难确定",
+      "expression_zh": "放松",
+      "hands_zh": "一手下放贴裤袋附近，另一手撑在棕色包上",
+      "outfit_visible_zh": "深蓝衬衫、米色阔腿裤上部、棕色包",
+      "uncertainties": [
+        "源图在大腿处截断；眼睛开合不确定"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f169",
+      "page": "06.webp",
+      "figure_id": "169",
+      "box": [
+        0.332834,
+        0.458686,
+        0.278111,
+        0.174788
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "躯干大幅前倾，颈部抬起，双臂向后伸展",
+      "gaze_zh": "看画面左上方",
+      "expression_zh": "平静",
+      "hands_zh": "双手向后展开，指尖自然伸出",
+      "outfit_visible_zh": "浅蓝条纹衬衫、黑流苏腰饰、黑裤上部",
+      "uncertainties": [
+        "源图于髋部截断"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f090",
+      "page": "06.webp",
+      "figure_id": "090",
+      "box": [
+        0.364318,
+        0.633475,
+        0.185907,
+        0.147775
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面上身，双肘向两侧抬起",
+      "gaze_zh": "看画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手十指交叠放在额头上方",
+      "outfit_visible_zh": "棕色长袖拼蕾丝上衣",
+      "uncertainties": [
+        "源图胸下及前臂外端截断"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f082",
+      "page": "06.webp",
+      "figure_id": "082",
+      "box": [
+        0.731634,
+        0.570975,
+        0.149925,
+        0.201801
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "上身微侧倾，低头肩膀放松",
+      "gaze_zh": "看画面左下",
+      "expression_zh": "微笑",
+      "hands_zh": "一手插外套口袋，另一手指尖触唇",
+      "outfit_visible_zh": "棕红皮外套、绿色裤上部",
+      "uncertainties": [
+        "源图于大腿上部截断"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p06-f058",
+      "page": "06.webp",
+      "figure_id": "058",
+      "box": [
+        0.538231,
+        0.639831,
+        0.174663,
+        0.216102
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身向一侧偏斜，头侧低垂，双臂向前下方伸",
+      "gaze_zh": "低头看画面左下",
+      "expression_zh": "平静",
+      "hands_zh": "双手在身前低位交握或一手握另一手指",
+      "outfit_visible_zh": "棕红皮外套、绿色裤上部",
+      "uncertainties": [
+        "源图于大腿处截断；细小手指交握方式不确定"
+      ],
+      "source_sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d"
+    },
+    {
+      "id": "p07-f011",
+      "page": "07.webp",
+      "figure_id": "011",
+      "box": [
+        0.290105,
+        0.149894,
+        0.393553,
+        0.326271
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双臂向两侧水平张开，头向一侧轻歪，双脚靠近",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手张开，手指自然分散",
+      "outfit_visible_zh": "黄绿色长衬衫、橄榄色阔腿工装裤、露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f122",
+      "page": "07.webp",
+      "figure_id": "122",
+      "box": [
+        0.089955,
+        0.278602,
+        0.128186,
+        0.132415
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "胸像，轻歪头并单眼眨眼",
+      "gaze_zh": "看向镜头，单眼闭合",
+      "expression_zh": "露齿微笑、眨眼",
+      "hands_zh": "一手横托下巴并触碰嘴边，另一手不可见",
+      "outfit_visible_zh": "棕红色皮质外套、黑色内搭",
+      "uncertainties": [
+        "源图在胸部下缘截断，无法观察下身"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f098",
+      "page": "07.webp",
+      "figure_id": "098",
+      "box": [
+        0.613193,
+        0.246822,
+        0.126687,
+        0.132415
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "头肩像，身体近正面，头微转",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "嘴微张，神情平静",
+      "hands_zh": "一手抬至嘴边，指尖轻触唇旁",
+      "outfit_visible_zh": "浅紫短袖、灰褐色蕾丝吊带、黑色流苏颈饰",
+      "uncertainties": [
+        "源图截于胸部，另一手与下身不可见"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f160",
+      "page": "07.webp",
+      "figure_id": "160",
+      "box": [
+        0.191154,
+        0.358581,
+        0.206147,
+        0.292903
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿宽站，双肘向外，正面挺身",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双手叉腰，手指向下贴腰侧",
+      "outfit_visible_zh": "棕红色皮外套、绿色阔腿裤、黑色露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f072",
+      "page": "07.webp",
+      "figure_id": "072",
+      "box": [
+        0.655922,
+        0.387712,
+        0.149925,
+        0.237818
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面站立，肩膀略不等高，双臂自然下垂",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双手垂在身体两侧",
+      "outfit_visible_zh": "黑色流苏衬衫、黑色长裤",
+      "uncertainties": [
+        "源图在大腿处截断，膝、脚不可见"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f119",
+      "page": "07.webp",
+      "figure_id": "119",
+      "box": [
+        0.050975,
+        0.571504,
+        0.135682,
+        0.194386
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双肩自然，双手在腹前轻合",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手低放腹前，手指松散交叠",
+      "outfit_visible_zh": "棕色长袖、灰褐色蕾丝吊带、格纹短裤",
+      "uncertainties": [
+        "源图在大腿上部截断；印刷119位于人物右侧而非上方"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f016",
+      "page": "07.webp",
+      "figure_id": "016",
+      "box": [
+        0.278111,
+        0.661017,
+        0.196402,
+        0.193856
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐地，一腿横折在地，另一膝抬起，躯干直立",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "轻微微笑",
+      "hands_zh": "一手搭在抬起的膝上，另一手不清晰",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [
+        "后侧手被身体遮挡"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f050",
+      "page": "07.webp",
+      "figure_id": "050",
+      "box": [
+        0.484258,
+        0.614936,
+        0.197151,
+        0.21928
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面上身，双臂抬起肘向外，双手置脑后",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手收在头后，手掌多数被头发遮住",
+      "outfit_visible_zh": "浅紫短袖、蕾丝吊带、黑色长流苏、棕色皮裙",
+      "uncertainties": [
+        "源图在裙部截断，下腿与鞋不可见"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p07-f053",
+      "page": "07.webp",
+      "figure_id": "053",
+      "box": [
+        0.756372,
+        0.752119,
+        0.12069,
+        0.138771
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "坐姿或低位上身，两肩内收，头轻斜",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "嘴微张，表情平静",
+      "hands_zh": "双臂交叉向上，双手分别搭近对侧肩膀",
+      "outfit_visible_zh": "黄绿色长衬衫",
+      "uncertainties": [
+        "源图截于腰胯附近，无法确认下肢姿势"
+      ],
+      "source_sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c"
+    },
+    {
+      "id": "p08-f047",
+      "page": "08.webp",
+      "figure_id": "047",
+      "box": [
+        0.690405,
+        0.175847,
+        0.203898,
+        0.350636
+      ],
+      "framing": "full",
+      "action_family": "gesture",
+      "pose_zh": "站姿，双臂举过头，肘弯曲并向外，头转侧面",
+      "gaze_zh": "闭眼，面朝画面右侧",
+      "expression_zh": "放松",
+      "hands_zh": "双手在额头上方交叠或轻握",
+      "outfit_visible_zh": "深蓝牛仔衬衫、卡其阔腿裤、棕色肩包、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f166",
+      "page": "08.webp",
+      "figure_id": "166",
+      "box": [
+        0.38006,
+        0.25,
+        0.158921,
+        0.20286
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身轻侧倾，一臂绕过头顶，头向侧上方仰",
+      "gaze_zh": "闭眼或垂眼，面朝画面右侧",
+      "expression_zh": "放松",
+      "hands_zh": "一手搭额头上方，另一手插裤袋",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤",
+      "uncertainties": [
+        "源图在髋部/上大腿截断"
+      ],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f105",
+      "page": "08.webp",
+      "figure_id": "105",
+      "box": [
+        0.182909,
+        0.362818,
+        0.141679,
+        0.196504
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "身体轻扭、髋部侧移，肩向镜头，头微歪",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "轻微微笑",
+      "hands_zh": "一手贴腹侧，另一手低放腰头附近",
+      "outfit_visible_zh": "棕色长袖、蕾丝吊带、格纹短裤",
+      "uncertainties": [
+        "源图截在大腿处，下腿与鞋不可见"
+      ],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f093",
+      "page": "08.webp",
+      "figure_id": "093",
+      "box": [
+        0.530735,
+        0.34428,
+        0.117691,
+        0.290254
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "侧身站立，上身略前收，头转回镜头，腿自然错位",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "双手低放两侧，部分被外套遮住",
+      "outfit_visible_zh": "棕红皮外套、绿色阔腿裤、黑色露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f176",
+      "page": "08.webp",
+      "figure_id": "176",
+      "box": [
+        0.329835,
+        0.471398,
+        0.153673,
+        0.297669
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，一腿跨在另一腿前，髋部侧顶",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手叉腰，另一手自然下垂",
+      "outfit_visible_zh": "棕色长袖、蕾丝吊带、格纹短裤、花纹高跟鞋",
+      "uncertainties": [],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f049",
+      "page": "08.webp",
+      "figure_id": "049",
+      "box": [
+        0.057721,
+        0.584746,
+        0.21964,
+        0.277013
+      ],
+      "framing": "close",
+      "action_family": "detail",
+      "pose_zh": "无头躯干细节，双臂收在腰前，一手整理另一侧袖口",
+      "gaze_zh": "不可见",
+      "expression_zh": "不确定",
+      "hands_zh": "双手在腹前交叠，一手轻拉或捏住另一手袖口",
+      "outfit_visible_zh": "黑色长袖上装与黑色下装、黄绿色长流苏围饰",
+      "uncertainties": [
+        "源图顶部已裁去头肩，下缘裁去腿脚；不可推断全身姿势"
+      ],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f129",
+      "page": "08.webp",
+      "figure_id": "129",
+      "box": [
+        0.785607,
+        0.528072,
+        0.116192,
+        0.166843
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身侧向镜头并回头，身体略扭",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手抬至唇边，另一臂横收腰前、手握衣侧",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩部装饰、黑色下装",
+      "uncertainties": [
+        "源图在髋部截断"
+      ],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f110",
+      "page": "08.webp",
+      "figure_id": "110",
+      "box": [
+        0.595952,
+        0.654131,
+        0.236882,
+        0.244703
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "单腿支撑，另一腿向后弯起并用手抓住鞋，躯干微侧",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "微笑",
+      "hands_zh": "一手叉腰，另一手抓住后抬脚的鞋",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [
+        "源图下缘切掉支撑腿小腿与脚，按实际画面标half",
+        "画面右侧肘部外缘在源拼贴中已有直线裁边，不是此框新增截断。"
+      ],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p08-f178",
+      "page": "08.webp",
+      "figure_id": "178",
+      "box": [
+        0.364318,
+        0.773305,
+        0.124438,
+        0.127648
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "头肩像，头向侧面转，张口大笑",
+      "gaze_zh": "双眼闭合，面朝画面左侧",
+      "expression_zh": "大笑",
+      "hands_zh": "双手不可见",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩部装饰",
+      "uncertainties": [
+        "源图截于胸部，手与下身不可见"
+      ],
+      "source_sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba"
+    },
+    {
+      "id": "p09-f179",
+      "page": "09.webp",
+      "figure_id": "179",
+      "box": [
+        0.088456,
+        0.092161,
+        0.185157,
+        0.301377
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿宽站，双臂下垂，头与上身一起向一侧倾斜",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手自然低垂，部分藏在长袖里",
+      "outfit_visible_zh": "棕红皮外套、绿色阔腿裤、黑色露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f038",
+      "page": "09.webp",
+      "figure_id": "038",
+      "box": [
+        0.697151,
+        0.21875,
+        0.155172,
+        0.306144
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "身体侧向、前后错步，前腿伸出，头转向镜头",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双臂垂于两侧，一手沿裙侧",
+      "outfit_visible_zh": "黑色长袖长裙、黄绿色长流苏围饰、黑色夹趾凉鞋",
+      "uncertainties": [
+        "静态图无法确定是真实迈步还是错步站姿"
+      ],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f028",
+      "page": "09.webp",
+      "figure_id": "028",
+      "box": [
+        0.501499,
+        0.270657,
+        0.128186,
+        0.151483
+      ],
+      "framing": "full",
+      "action_family": "crouching",
+      "pose_zh": "低蹲，双膝靠近，双肘支在膝上，头略转侧",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "平静、若有所思",
+      "hands_zh": "双手托住两侧脸颊",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f125",
+      "page": "09.webp",
+      "figure_id": "125",
+      "box": [
+        0.308846,
+        0.368114,
+        0.175412,
+        0.307203
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿交叉站立，髋部偏向一侧，头转侧面",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手插入裤袋",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩饰、黑色流苏腰饰、黑色阔腿裤、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f186",
+      "page": "09.webp",
+      "figure_id": "186",
+      "box": [
+        0.184408,
+        0.405191,
+        0.125187,
+        0.127119
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "头肩像，一手在下颌附近作思考姿态",
+      "gaze_zh": "看向画面右上侧",
+      "expression_zh": "嘴唇轻抿，平静",
+      "hands_zh": "一手食指沿脸侧抬起、拇指托下巴，其余手指弯曲",
+      "outfit_visible_zh": "棕色长袖、灰褐蕾丝吊带",
+      "uncertainties": [
+        "源图截于胸部，另一手与下身不可见"
+      ],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f143",
+      "page": "09.webp",
+      "figure_id": "143",
+      "box": [
+        0.073463,
+        0.566737,
+        0.169415,
+        0.211864
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面上身，双肘弯曲抬至胸肩高，双手做手指造型",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "嘴唇轻抿，略俏皮",
+      "hands_zh": "双手分别抬在肩旁，部分手指伸直、拇指与另一指成圈",
+      "outfit_visible_zh": "棕红皮外套、绿色裤装",
+      "uncertainties": [
+        "源图截于大腿；手指造型细节不确定，不将其命名为特定手势"
+      ],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f081",
+      "page": "09.webp",
+      "figure_id": "081",
+      "box": [
+        0.496252,
+        0.509004,
+        0.164168,
+        0.310911
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿轻交叉站立，一臂弯到头顶，头与躯干略侧倾",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手搭在头顶，另一手低提棕色包",
+      "outfit_visible_zh": "深蓝牛仔衬衫、卡其阔腿裤、棕色软包、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f151",
+      "page": "09.webp",
+      "figure_id": "151",
+      "box": [
+        0.690405,
+        0.626589,
+        0.245127,
+        0.18803
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "侧坐地面，上身后倾，以双手撑地，头后仰",
+      "gaze_zh": "看向镜头附近，眼睑略低",
+      "expression_zh": "放松、嘴微张",
+      "hands_zh": "双手在身体两侧撑地，手指展开",
+      "outfit_visible_zh": "浅紫短袖、蕾丝吊带、黑色长流苏、棕色皮裙",
+      "uncertainties": [
+        "源图左下边裁去裙摆及下腿，不能称完整全身"
+      ],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p09-f037",
+      "page": "09.webp",
+      "figure_id": "037",
+      "box": [
+        0.376312,
+        0.732521,
+        0.161919,
+        0.170021
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "双腿分开，上身前倾，双臂往后收，头转侧",
+      "gaze_zh": "看向画面左侧",
+      "expression_zh": "警觉、嘴微张",
+      "hands_zh": "双手收于腰后并被身体遮挡",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤",
+      "uncertainties": [
+        "源图截于大腿，双手不可清楚观察"
+      ],
+      "source_sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1"
+    },
+    {
+      "id": "p10-f112",
+      "page": "10.webp",
+      "figure_id": "112",
+      "box": [
+        0.315592,
+        0.122352,
+        0.148426,
+        0.287606
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "身体近正面，双腿一前一后，肩放松，头转侧",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "微笑",
+      "hands_zh": "一手臂弯夹住棕色软包，另一手自然下垂",
+      "outfit_visible_zh": "深蓝牛仔衬衫、卡其阔腿裤、棕色软包、深色鞋",
+      "uncertainties": [
+        "静态图无法确定迈步或错步站姿"
+      ],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f168",
+      "page": "10.webp",
+      "figure_id": "168",
+      "box": [
+        0.51949,
+        0.18697,
+        0.137181,
+        0.226695
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐姿交叠双腿，身体微前倾，一手举在脸旁",
+      "gaze_zh": "闭眼或眯眼",
+      "expression_zh": "张口大笑",
+      "hands_zh": "一手抬在耳颊旁、手指展开，另一手放大腿",
+      "outfit_visible_zh": "黑色长裙、黄绿色长流苏围饰、黑色夹趾凉鞋",
+      "uncertainties": [
+        "承坐物被服装遮挡，无法确定椅型"
+      ],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f020",
+      "page": "10.webp",
+      "figure_id": "020",
+      "box": [
+        0.06072,
+        0.256886,
+        0.227136,
+        0.229343
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身近正面，双肘屈起，两手掌朝上外摊，髋部偏一侧",
+      "gaze_zh": "看向画面左侧",
+      "expression_zh": "嘴微张，略疑问",
+      "hands_zh": "双手掌向上作摊手，其中一手拇指较突出",
+      "outfit_visible_zh": "棕色长袖、蕾丝吊带、格纹短裤",
+      "uncertainties": [
+        "源图截于大腿，脚不可见"
+      ],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f163",
+      "page": "10.webp",
+      "figure_id": "163",
+      "box": [
+        0.649175,
+        0.317267,
+        0.183658,
+        0.298729
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿宽站，一侧肩微抬，身体轻侧转",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "轻微微笑",
+      "hands_zh": "一手握肩包带，另一手插裤袋",
+      "outfit_visible_zh": "深蓝牛仔衬衫、卡其阔腿裤、棕色肩包、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f080",
+      "page": "10.webp",
+      "figure_id": "080",
+      "box": [
+        0.352324,
+        0.42214,
+        0.189655,
+        0.20286
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "双手叉腰，肩髋向相反方向轻扭，头转侧",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双手压在腰髋两侧，双肘外展",
+      "outfit_visible_zh": "浅紫短袖、蕾丝吊带、黑色长流苏、棕色皮裙",
+      "uncertainties": [
+        "源图在裙部截断，下腿与鞋不可见"
+      ],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f063",
+      "page": "10.webp",
+      "figure_id": "063",
+      "box": [
+        0.08096,
+        0.490466,
+        0.227136,
+        0.251059
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身略侧弯后仰，一臂抬至头后，另一手靠唇边",
+      "gaze_zh": "看向镜头附近，眼睑略低",
+      "expression_zh": "嘴微张，放松",
+      "hands_zh": "一手置头后，另一手指尖轻触唇边",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩饰、黑色流苏腰带、黑裤",
+      "uncertainties": [
+        "源图截在大腿，腿脚不可见"
+      ],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f128",
+      "page": "10.webp",
+      "figure_id": "128",
+      "box": [
+        0.73913,
+        0.602754,
+        0.17991,
+        0.185911
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐地双膝并拢抬至胸前，上身略斜，一手撑地",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "一手撑在身体侧后地面，另一手抬到肩旁捻住头发",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f117",
+      "page": "10.webp",
+      "figure_id": "117",
+      "box": [
+        0.492504,
+        0.62553,
+        0.2009,
+        0.262712
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "双腿宽站，上身向一侧前倾，头抬向镜头",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "一手扶腰侧，另一手压在大腿前方",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩饰、黑色流苏腰带、黑色阔腿裤、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p10-f159",
+      "page": "10.webp",
+      "figure_id": "159",
+      "box": [
+        0.28036,
+        0.691208,
+        0.148426,
+        0.203919
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "身体后仰成弧线，头向后略仰，髋部前顶",
+      "gaze_zh": "双眼闭合",
+      "expression_zh": "放松",
+      "hands_zh": "近侧手沿大腿外侧下放，另一手被身体遮挡",
+      "outfit_visible_zh": "棕色长袖、蕾丝吊带、格纹短裤",
+      "uncertainties": [
+        "源图截在大腿中部，下腿与鞋不可见"
+      ],
+      "source_sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844"
+    },
+    {
+      "id": "p11-f156",
+      "page": "11.webp",
+      "figure_id": "156",
+      "box": [
+        0.118441,
+        0.072564,
+        0.125937,
+        0.336335
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿交叉站立，身体正面，抬下巴",
+      "gaze_zh": "看向镜头附近或稍上方",
+      "expression_zh": "平静、自持",
+      "hands_zh": "一臂横抱腹前，另一手跨身搭对侧肩",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩饰、黑色流苏腰带、黑裤、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f139",
+      "page": "11.webp",
+      "figure_id": "139",
+      "box": [
+        0.251124,
+        0.139831,
+        0.135682,
+        0.334746
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "身体轻扭，头低下，双腿自然错位",
+      "gaze_zh": "垂眼看向衣服或下方",
+      "expression_zh": "平静",
+      "hands_zh": "双手沿长衬衫两侧与大腿上方贴放，手指展开",
+      "outfit_visible_zh": "黄绿色长衬衫、橄榄色工装阔腿裤、黄色花纹露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f100",
+      "page": "11.webp",
+      "figure_id": "100",
+      "box": [
+        0.595952,
+        0.252119,
+        0.198651,
+        0.325212
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双膝微屈，身体向一侧偏斜，头低下，一肘略抬",
+      "gaze_zh": "垂眼看向地面",
+      "expression_zh": "平静",
+      "hands_zh": "一手下垂，另一臂外抬后前臂自然垂下",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f089",
+      "page": "11.webp",
+      "figure_id": "089",
+      "box": [
+        0.388306,
+        0.367055,
+        0.161169,
+        0.166314
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "宽腿低坐，上身前倾，一肘支膝，头转侧",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "严肃平静",
+      "hands_zh": "一手举至耳旁，另一手松垂在两膝之间",
+      "outfit_visible_zh": "棕色条纹套头上衣、黄色阔腿裤",
+      "uncertainties": [
+        "源图矩形截于膝/小腿上方，无法观察脚与承坐物"
+      ],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f076",
+      "page": "11.webp",
+      "figure_id": "076",
+      "box": [
+        0.129685,
+        0.423199,
+        0.15967,
+        0.311441
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双腿轻错位，一侧肩略高",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一臂弯夹棕色包，另一手插裤袋",
+      "outfit_visible_zh": "深蓝牛仔衬衫、卡其阔腿裤、棕色软包、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f030",
+      "page": "11.webp",
+      "figure_id": "030",
+      "box": [
+        0.384558,
+        0.535487,
+        0.156672,
+        0.159428
+      ],
+      "framing": "close",
+      "action_family": "sitting",
+      "pose_zh": "低位前倾，上身侧向，屈臂抵近前额",
+      "gaze_zh": "看向画面右下侧",
+      "expression_zh": "严肃、若有所思",
+      "hands_zh": "一手握拳或弯指抵额头附近，另一手不可见",
+      "outfit_visible_zh": "棕红皮外套、局部绿色裤装",
+      "uncertainties": [
+        "源图仅保留头、胸臂与局部屈膝；下肢姿势不完整"
+      ],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f126",
+      "page": "11.webp",
+      "figure_id": "126",
+      "box": [
+        0.697901,
+        0.577331,
+        0.206897,
+        0.216102
+      ],
+      "framing": "half",
+      "action_family": "kneeling",
+      "pose_zh": "身体向一侧倾斜，一腿向后屈起，头抬向上方",
+      "gaze_zh": "看向画面左上方",
+      "expression_zh": "嘴微张",
+      "hands_zh": "一臂向斜上伸出并被源图截断，另一手向后抓住抬脚的鞋",
+      "outfit_visible_zh": "棕色条纹上衣、黄色阔腿裤、黑色鞋",
+      "uncertainties": [
+        "源图顶部裁去伸出手，底部裁去支撑腿；仅能确认一腿后屈，跪/单腿支撑不确定"
+      ],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f158",
+      "page": "11.webp",
+      "figure_id": "158",
+      "box": [
+        0.242129,
+        0.698623,
+        0.269865,
+        0.129767
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "侧卧或半躺地面，双腿同向屈折，上身以一肘/手撑起",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "一侧前臂撑地，另一手放在地面",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [
+        "远侧足部与腿重叠，但可见鞋尖/鞋侧"
+      ],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p11-f018",
+      "page": "11.webp",
+      "figure_id": "018",
+      "box": [
+        0.538981,
+        0.627648,
+        0.170165,
+        0.237818
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "双臂举过头，肘略弯，手在头顶交叉，头转侧",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双腕交叉，手指张开",
+      "outfit_visible_zh": "浅蓝条纹衬衫、蓝色肩饰、黑色流苏腰饰、黑裤",
+      "uncertainties": [
+        "源图截于髋部/上大腿，下腿与鞋不可见"
+      ],
+      "source_sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d"
+    },
+    {
+      "id": "p12-f164",
+      "page": "12.webp",
+      "figure_id": "164",
+      "box": [
+        0.427286,
+        0.151483,
+        0.134933,
+        0.338983
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "身体近侧面，双腿错步，肩自然下沉",
+      "gaze_zh": "看向画面右侧",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双臂自然垂下，手贴裙侧",
+      "outfit_visible_zh": "浅紫短袖、蕾丝吊带、黑色长流苏、棕色皮裙、黑色低跟尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f154",
+      "page": "12.webp",
+      "figure_id": "154",
+      "box": [
+        0.562219,
+        0.192267,
+        0.147676,
+        0.165254
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "头肩近景，头微低，一手遮住大半面部",
+      "gaze_zh": "透过未遮住的一眼看向镜头",
+      "expression_zh": "严肃",
+      "hands_zh": "一手竖贴面部，掌与手指遮住一侧眼睛、鼻及嘴的部分区域",
+      "outfit_visible_zh": "黄绿色长衬衫",
+      "uncertainties": [
+        "源图截于胸部，下身与另一手不可见"
+      ],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f013",
+      "page": "12.webp",
+      "figure_id": "013",
+      "box": [
+        0.103448,
+        0.268008,
+        0.116192,
+        0.143008
+      ],
+      "framing": "full",
+      "action_family": "crouching",
+      "pose_zh": "低蹲，双膝收拢，上身前倾，一肘支在膝上托脸",
+      "gaze_zh": "看向画面左侧",
+      "expression_zh": "平静、若有所思",
+      "hands_zh": "一手托脸颊，另一手垂过膝前",
+      "outfit_visible_zh": "棕色条纹上衣、黄色阔腿裤",
+      "uncertainties": [
+        "鞋被裤脚或蹲姿遮挡，不补推鞋型"
+      ],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f107",
+      "page": "12.webp",
+      "figure_id": "107",
+      "box": [
+        0.214393,
+        0.332097,
+        0.162669,
+        0.316737
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面双腿宽站，肘向外，双手贴腰胯",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双手放在外套前方腰胯附近，手指向下",
+      "outfit_visible_zh": "棕红皮外套、绿色阔腿裤、黑色露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f165",
+      "page": "12.webp",
+      "figure_id": "165",
+      "box": [
+        0.658171,
+        0.358051,
+        0.176912,
+        0.306674
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿分开站立，身体略偏一侧，一臂横抱",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃、若有所思",
+      "hands_zh": "一手托下巴，另一臂横抱腹前承托手肘",
+      "outfit_visible_zh": "黄绿色长衬衫、橄榄色工装阔腿裤、黄色花纹露趾鞋",
+      "uncertainties": [],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f111",
+      "page": "12.webp",
+      "figure_id": "111",
+      "box": [
+        0.050225,
+        0.564619,
+        0.167166,
+        0.21822
+      ],
+      "framing": "half",
+      "action_family": "kneeling",
+      "pose_zh": "身体近侧面并向后仰，头回转看镜头，一腿屈起",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手向后抓住抬脚的黑鞋，另一手不可见",
+      "outfit_visible_zh": "棕色条纹上衣、黄色阔腿裤、黑色鞋",
+      "uncertainties": [
+        "源图下缘截掉部分腿部，跪姿/单腿站立无法完整判断"
+      ],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f097",
+      "page": "12.webp",
+      "figure_id": "097",
+      "box": [
+        0.310345,
+        0.650424,
+        0.150675,
+        0.174788
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "身体转背侧面，腰胯扭转，头回看，单臂抬起屈肘",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "一手举在额头前上方、手掌弯曲，另一手置腰后",
+      "outfit_visible_zh": "黑色长袖长裙、黄绿色长流苏围饰",
+      "uncertainties": [
+        "源图截于臀腿部，下腿与鞋不可见"
+      ],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f118",
+      "page": "12.webp",
+      "figure_id": "118",
+      "box": [
+        0.502249,
+        0.648305,
+        0.1994,
+        0.200742
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "上身前倾，双臂向下伸直撑桌，头侧歪",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "平静、嘴微张",
+      "hands_zh": "双手分开撑住桌面边缘，手指展开",
+      "outfit_visible_zh": "黑色长袖长裙、黄绿色长流苏围饰",
+      "uncertainties": [
+        "源图底部截去裙摆与双腿；桌面属于动作支撑物，框内保留可见桌沿"
+      ],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p12-f064",
+      "page": "12.webp",
+      "figure_id": "064",
+      "box": [
+        0.698651,
+        0.722458,
+        0.258621,
+        0.158369
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐地，一腿向侧方屈折，另一腿沿地向另一侧延伸/折转，身体直立",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "严肃平静",
+      "hands_zh": "双手低放在身前地面或近脚踝处",
+      "outfit_visible_zh": "黑色流苏衬衫、黑裤、棕色尖头鞋",
+      "uncertainties": [
+        "裤装遮挡膝关节，精确腿部折叠方式不确定"
+      ],
+      "source_sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68"
+    },
+    {
+      "id": "p13-f152",
+      "page": "13.webp",
+      "figure_id": "152",
+      "box": [
+        0.368066,
+        0.229343,
+        0.190405,
+        0.164725
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "屈双膝抱腿蜷坐，侧身并把脸轻靠膝上",
+      "gaze_zh": "看向镜头",
+      "expression_zh": "安静，嘴唇闭合",
+      "hands_zh": "双臂环抱膝腿，手多被遮挡",
+      "outfit_visible_zh": "棕色条纹上衣、荧黄宽裤、黑色尖头鞋",
+      "uncertainties": [
+        "手指被腿与衣物遮挡"
+      ],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f062",
+      "page": "13.webp",
+      "figure_id": "062",
+      "box": [
+        0.670915,
+        0.194386,
+        0.198651,
+        0.34322
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "直立略低头，一脚向前错开，一肘向侧外弯",
+      "gaze_zh": "垂眼看向下方",
+      "expression_zh": "平静",
+      "hands_zh": "一手在髋侧悬垂，另一手随弯肘向前下方松垂",
+      "outfit_visible_zh": "黑色长袖上衣、黑色长裙、荧黄长流苏、黑色凉鞋",
+      "uncertainties": [],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f130",
+      "page": "13.webp",
+      "figure_id": "130",
+      "box": [
+        0.182909,
+        0.394597,
+        0.158921,
+        0.159958
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "上身正面，一臂抬过头顶，手掌压在头发上",
+      "gaze_zh": "望画面右侧",
+      "expression_zh": "嘴微张，平静",
+      "hands_zh": "抬起的一手覆头，另一手不在裁片内",
+      "outfit_visible_zh": "黑色上衣、荧黄颈部流苏",
+      "uncertainties": [
+        "源裁片在胸部截断，另一手不可见"
+      ],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f023",
+      "page": "13.webp",
+      "figure_id": "023",
+      "box": [
+        0.518741,
+        0.360699,
+        0.127436,
+        0.297669
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立，双腿自然分开，肩臂放松",
+      "gaze_zh": "看镜头",
+      "expression_zh": "轻微微笑",
+      "hands_zh": "双手沿身体两侧自然下垂",
+      "outfit_visible_zh": "白色短袖叠灰棕吊带、黑流苏、棕色中长皮裙、黑尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f056",
+      "page": "13.webp",
+      "figure_id": "056",
+      "box": [
+        0.288606,
+        0.50053,
+        0.20015,
+        0.251059
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "上身挺立微倾，头轻偏，一侧手插裤袋",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手插裤袋，另一侧手臂搭配棕色包袋，手被遮挡",
+      "outfit_visible_zh": "深蓝牛仔衬衫、米色裤、棕色包",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f133",
+      "page": "13.webp",
+      "figure_id": "133",
+      "box": [
+        0.065967,
+        0.592161,
+        0.216642,
+        0.227225
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面双肘向外，双手扶腰",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "双手扶腰，部分手指被外套遮挡",
+      "outfit_visible_zh": "棕橘皮衬衫外套、绿色宽裤上段",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f057",
+      "page": "13.webp",
+      "figure_id": "057",
+      "box": [
+        0.637931,
+        0.533898,
+        0.317841,
+        0.129237
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "坐地向后仰，双膝弯曲并拢向一侧抬起",
+      "gaze_zh": "望画面左侧",
+      "expression_zh": "平静",
+      "hands_zh": "可见一手在身后撑地，另一手被身体遮挡",
+      "outfit_visible_zh": "浅蓝衬衫、黑流苏腰饰、黑裤、深色尖头鞋",
+      "uncertainties": [
+        "部分手臂和腿互相遮挡"
+      ],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p13-f060",
+      "page": "13.webp",
+      "figure_id": "060",
+      "box": [
+        0.62069,
+        0.666314,
+        0.168666,
+        0.181144
+      ],
+      "framing": "half",
+      "action_family": "crouching",
+      "pose_zh": "低蹲俯身，躯干侧转，一臂向地面垂下",
+      "gaze_zh": "望画面左上侧",
+      "expression_zh": "平静",
+      "hands_zh": "一手垂向地面，另一手搭在屈膝上",
+      "outfit_visible_zh": "黑色流苏上衣、黑裤、深色鞋",
+      "uncertainties": [
+        "源裁片右边竖直截断，部分身体与肢体不可见"
+      ],
+      "source_sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e"
+    },
+    {
+      "id": "p14-f041",
+      "page": "14.webp",
+      "figure_id": "041",
+      "box": [
+        0.053223,
+        0.097458,
+        0.254123,
+        0.313559
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立轻偏头，双臂斜向下外展，双脚靠近",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手张开自然放松，指尖朝下",
+      "outfit_visible_zh": "黑色上衣长裙、荧黄流苏、黑凉鞋",
+      "uncertainties": [],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f033",
+      "page": "14.webp",
+      "figure_id": "033",
+      "box": [
+        0.712894,
+        0.190678,
+        0.131184,
+        0.304555
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "交叉双腿站立，低头，一臂横过腰腹另一肘弯起",
+      "gaze_zh": "垂眼望画面左下",
+      "expression_zh": "平静",
+      "hands_zh": "一手轻触颈侧头发，另一手搭在对侧前臂附近",
+      "outfit_visible_zh": "白短袖叠灰棕吊带、黑流苏、棕皮中长裙、黑鞋",
+      "uncertainties": [],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f146",
+      "page": "14.webp",
+      "figure_id": "146",
+      "box": [
+        0.47901,
+        0.278602,
+        0.142429,
+        0.143538
+      ],
+      "framing": "close",
+      "action_family": "detail",
+      "pose_zh": "上身侧向微前倾，头向一侧低垂",
+      "gaze_zh": "望画面右下",
+      "expression_zh": "平静偏沉思",
+      "hands_zh": "双手不在裁片内",
+      "outfit_visible_zh": "黑色缝线翻领上衣",
+      "uncertainties": [
+        "源裁片在胸部截断，双手及下身不可见"
+      ],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f134",
+      "page": "14.webp",
+      "figure_id": "134",
+      "box": [
+        0.269115,
+        0.400424,
+        0.287856,
+        0.220869
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐地双腿向前两侧展开，脚掌朝前，身体直立",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手手指交叉举在胸前",
+      "outfit_visible_zh": "浅蓝衬衫、黑流苏腰饰、黑裤、深色尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f022",
+      "page": "14.webp",
+      "figure_id": "022",
+      "box": [
+        0.095952,
+        0.589513,
+        0.152174,
+        0.20339
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "侧身站立回头看镜头，肩上背包",
+      "gaze_zh": "看镜头",
+      "expression_zh": "轻微微笑",
+      "hands_zh": "一手似插裤袋，另一手在身后不可见",
+      "outfit_visible_zh": "深蓝牛仔衬衫、米色裤、棕色单肩包",
+      "uncertainties": [
+        "源裁片在大腿截断；手部遮挡"
+      ],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f184",
+      "page": "14.webp",
+      "figure_id": "184",
+      "box": [
+        0.518741,
+        0.560381,
+        0.174663,
+        0.199153
+      ],
+      "framing": "full",
+      "action_family": "sitting",
+      "pose_zh": "坐姿上身前倾，双膝分开，前臂落在两腿之间",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "双手自然垂落于双膝之间",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤、黑尖头鞋",
+      "uncertainties": [
+        "座面不可见，不确定支撑物"
+      ],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f161",
+      "page": "14.webp",
+      "figure_id": "161",
+      "box": [
+        0.702399,
+        0.64089,
+        0.206147,
+        0.197034
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "上身侧倾后仰，双肘外展，两手置于脑后",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手在后脑支撑或拢发",
+      "outfit_visible_zh": "黑上衣长裙上段、荧黄流苏",
+      "uncertainties": [
+        "源裁片下缘及右缘截断，下身和一侧肘不完整"
+      ],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p14-f027",
+      "page": "14.webp",
+      "figure_id": "027",
+      "box": [
+        0.38006,
+        0.727754,
+        0.14018,
+        0.182733
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "上身前倾抬头，双臂向背后收拢",
+      "gaze_zh": "望画面右上",
+      "expression_zh": "平静",
+      "hands_zh": "双手放在腰后，被身体遮挡",
+      "outfit_visible_zh": "白短袖叠灰棕吊带、黑流苏、棕皮裙上段",
+      "uncertainties": [
+        "源裁片在裙身截断，手与腿不可见"
+      ],
+      "source_sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e"
+    },
+    {
+      "id": "p15-f140",
+      "page": "15.webp",
+      "figure_id": "140",
+      "box": [
+        0.3006,
+        0.113877,
+        0.168666,
+        0.324153
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "正面站立重心偏一侧，一手扶髋，双脚分开",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手扶髋，另一手沿身侧垂落",
+      "outfit_visible_zh": "荧黄长衬衫、橄榄色工装宽裤、花纹尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f034",
+      "page": "15.webp",
+      "figure_id": "034",
+      "box": [
+        0.092204,
+        0.211864,
+        0.204648,
+        0.264301
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "站姿侧弯，一手扶髋，另一手抬向脸颊，头抬起",
+      "gaze_zh": "看向镜头上方附近",
+      "expression_zh": "嘴微张",
+      "hands_zh": "一手扶髋，另一手指轻贴面颊",
+      "outfit_visible_zh": "荧黄长衬衫、橄榄色工装宽裤上段",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f073",
+      "page": "15.webp",
+      "figure_id": "073",
+      "box": [
+        0.470015,
+        0.178496,
+        0.218141,
+        0.232521
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面双肘外展，双手分别搭头顶和后脑",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手覆头顶，另一手置后脑",
+      "outfit_visible_zh": "黑长袖上衣、黑裙上段、荧黄流苏",
+      "uncertainties": [
+        "源裁片在裙身截断，腿脚不可见"
+      ],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f131",
+      "page": "15.webp",
+      "figure_id": "131",
+      "box": [
+        0.694903,
+        0.300847,
+        0.142429,
+        0.310381
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "背向镜头交叉迈步，头微低转向一侧",
+      "gaze_zh": "脸朝画面右下，不看镜头",
+      "expression_zh": "不确定",
+      "hands_zh": "双手收在腰身两侧，细节被衣服遮挡",
+      "outfit_visible_zh": "棕橘皮外套、绿色宽裤、黑鞋",
+      "uncertainties": [
+        "背面面部不可辨"
+      ],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f009",
+      "page": "15.webp",
+      "figure_id": "009",
+      "box": [
+        0.103448,
+        0.474576,
+        0.165667,
+        0.288136
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "侧身跨步行走，身体朝画面右侧，后腿伸直",
+      "gaze_zh": "望画面右侧",
+      "expression_zh": "嘴微张，平静",
+      "hands_zh": "双臂在身侧自然垂落，远侧手被身体遮挡",
+      "outfit_visible_zh": "白短袖叠灰棕吊带、黑流苏、棕皮裙、黑跟鞋",
+      "uncertainties": [],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f162",
+      "page": "15.webp",
+      "figure_id": "162",
+      "box": [
+        0.36057,
+        0.453919,
+        0.151424,
+        0.172669
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "侧坐并转上身回看，一条屈起的腿在身前",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手张指撑地，另一手被身前腿与衣物遮挡",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤局部",
+      "uncertainties": [
+        "源裁片右缘截断腿部，下肢并不完整"
+      ],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f147",
+      "page": "15.webp",
+      "figure_id": "147",
+      "box": [
+        0.490255,
+        0.603814,
+        0.152924,
+        0.299258
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "站立身体略侧转，一脚斜伸向外，头转向侧面",
+      "gaze_zh": "望画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "一手插腰侧口袋附近，另一手轻捏颈部流苏",
+      "outfit_visible_zh": "黑上衣长裙、荧黄流苏、黑凉鞋",
+      "uncertainties": [],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p15-f043",
+      "page": "15.webp",
+      "figure_id": "043",
+      "box": [
+        0.74063,
+        0.614936,
+        0.157421,
+        0.173199
+      ],
+      "framing": "full",
+      "action_family": "crouching",
+      "pose_zh": "侧身低蹲，双腿收拢，上身微前倾并回看",
+      "gaze_zh": "看镜头",
+      "expression_zh": "轻微微笑",
+      "hands_zh": "双前臂搭膝，一手自然垂下",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤、黑尖头鞋",
+      "uncertainties": [
+        "部分鞋被宽裤遮挡"
+      ],
+      "source_sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325"
+    },
+    {
+      "id": "p16-f024",
+      "page": "16.webp",
+      "figure_id": "024",
+      "box": [
+        0.062219,
+        0.079979,
+        0.238381,
+        0.347987
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "双腿大幅分开站立，双手脑后，双肘平展，低头",
+      "gaze_zh": "垂眼向下",
+      "expression_zh": "平静",
+      "hands_zh": "双手置于后脑",
+      "outfit_visible_zh": "荧黄长衬衫、橄榄工装宽裤、花纹尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f019",
+      "page": "16.webp",
+      "figure_id": "019",
+      "box": [
+        0.298351,
+        0.150424,
+        0.25937,
+        0.329449
+      ],
+      "framing": "full",
+      "action_family": "standing",
+      "pose_zh": "单腿承重，另一腿屈髋抬起向前伸，躯干挺直略后倾",
+      "gaze_zh": "望向镜头上方附近",
+      "expression_zh": "平静",
+      "hands_zh": "双臂放在身后，手不可见",
+      "outfit_visible_zh": "黑色流苏衬衫、黑宽裤、深棕尖头鞋",
+      "uncertainties": [
+        "支撑方式与身后手部不可见",
+        "抬腿形成的矩形框右下可能包含邻近044人像的局部；人物轮廓本身分离"
+      ],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f150",
+      "page": "16.webp",
+      "figure_id": "150",
+      "box": [
+        0.613943,
+        0.288665,
+        0.153673,
+        0.222987
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "侧身站立回头，肩部轻向后转",
+      "gaze_zh": "望画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手被躯干与外套遮挡",
+      "outfit_visible_zh": "棕橘皮外套、绿色裤上段",
+      "uncertainties": [
+        "源裁片在大腿截断，双手不可见"
+      ],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f052",
+      "page": "16.webp",
+      "figure_id": "052",
+      "box": [
+        0.171664,
+        0.430085,
+        0.142429,
+        0.21822
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身侧转低头，一臂横在身前",
+      "gaze_zh": "垂眼望画面左下",
+      "expression_zh": "平静",
+      "hands_zh": "一手轻扶胸前衣襟，另一手被袖口或躯干遮挡",
+      "outfit_visible_zh": "棕橘皮外套、绿色裤上段",
+      "uncertainties": [
+        "源裁片在大腿截断"
+      ],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f044",
+      "page": "16.webp",
+      "figure_id": "044",
+      "box": [
+        0.308096,
+        0.407839,
+        0.144678,
+        0.163136
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "正面俯身，一手扶髋，一肩下沉",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "一手扶腰髋，另一手垂向大腿",
+      "outfit_visible_zh": "棕长袖叠灰棕蕾丝背心、格纹短裙",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f045",
+      "page": "16.webp",
+      "figure_id": "045",
+      "box": [
+        0.464768,
+        0.480403,
+        0.154423,
+        0.146186
+      ],
+      "framing": "close",
+      "action_family": "gesture",
+      "pose_zh": "近景仰头，双手合拢举在脸旁",
+      "gaze_zh": "望画面左上方",
+      "expression_zh": "明显露齿微笑",
+      "hands_zh": "双手掌靠拢、手指伸展置下巴旁",
+      "outfit_visible_zh": "荧黄领口系带衬衫",
+      "uncertainties": [
+        "源裁片右侧及下缘截断，仅脸胸与举手可见"
+      ],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f036",
+      "page": "16.webp",
+      "figure_id": "036",
+      "box": [
+        0.532234,
+        0.650953,
+        0.142429,
+        0.190148
+      ],
+      "framing": "full",
+      "action_family": "crouching",
+      "pose_zh": "双膝分开低蹲，一侧肘压膝、掌托脸，另一臂垂下",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静略倦",
+      "hands_zh": "一掌托面颊，另一手落于两腿之间",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤、黑尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p16-f067",
+      "page": "16.webp",
+      "figure_id": "067",
+      "box": [
+        0.712144,
+        0.591102,
+        0.171664,
+        0.168962
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "坐姿一膝抬起，上身前倾，双臂向膝前伸落",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静，嘴微张",
+      "hands_zh": "一手向下垂，另一手被重叠前臂遮挡",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤局部",
+      "uncertainties": [
+        "源裁片下缘和右缘截断，腿脚不可完整判断"
+      ],
+      "source_sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6"
+    },
+    {
+      "id": "p17-f116",
+      "page": "17.webp",
+      "figure_id": "116",
+      "box": [
+        0.371814,
+        0.152013,
+        0.206147,
+        0.31303
+      ],
+      "framing": "full",
+      "action_family": "walking",
+      "pose_zh": "侧身跨步，扭头回望，一手捏颈部流苏，一手扶髋",
+      "gaze_zh": "望画面右侧",
+      "expression_zh": "微笑",
+      "hands_zh": "一手捏起黑流苏，另一手扶腰髋",
+      "outfit_visible_zh": "白短袖叠灰棕吊带、黑流苏、棕皮裙、黑跟鞋",
+      "uncertainties": [],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f051",
+      "page": "17.webp",
+      "figure_id": "051",
+      "box": [
+        0.544978,
+        0.213453,
+        0.202399,
+        0.15572
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "坐地，一腿盘折另一膝竖起，身体侧撑",
+      "gaze_zh": "看镜头",
+      "expression_zh": "嘴微张",
+      "hands_zh": "一手撑地，另一手在肩旁做拇指食指成圈、其余指展开手势",
+      "outfit_visible_zh": "浅蓝衬衫、黑裤、黑流苏腰饰、可见一只深色鞋",
+      "uncertainties": [
+        "源裁片右缘截断竖起腿的部分轮廓，非完整全身"
+      ],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f181",
+      "page": "17.webp",
+      "figure_id": "181",
+      "box": [
+        0.193403,
+        0.35911,
+        0.173913,
+        0.277013
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "站立躯干明显向侧弯，一肩抬高",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手抬至嘴边，另一手落在腿侧膝上",
+      "outfit_visible_zh": "黑流苏衬衫、黑裤、棕尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f040",
+      "page": "17.webp",
+      "figure_id": "040",
+      "box": [
+        0.649925,
+        0.372881,
+        0.163418,
+        0.275424
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面直立，双肩放松，两手相合于腰下",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手在身前低位相搭",
+      "outfit_visible_zh": "浅蓝衬衫、黑宽裤上段、黑流苏腰饰",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f035",
+      "page": "17.webp",
+      "figure_id": "035",
+      "box": [
+        0.089205,
+        0.566737,
+        0.161919,
+        0.229873
+      ],
+      "framing": "half",
+      "action_family": "leaning",
+      "pose_zh": "俯身上身前探、下巴高抬，肩向内收",
+      "gaze_zh": "望镜头上方附近",
+      "expression_zh": "嘴微张",
+      "hands_zh": "双手低位靠拢，握住棕色包袋附近",
+      "outfit_visible_zh": "深蓝牛仔衬衫、米裤、棕色包",
+      "uncertainties": [
+        "源裁片在大腿截断"
+      ],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f065",
+      "page": "17.webp",
+      "figure_id": "065",
+      "box": [
+        0.465517,
+        0.485169,
+        0.187406,
+        0.21875
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "正面站立，一臂弯曲越过头顶，另一臂扶髋",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "一手悬在头顶侧，另一手扶腰髋",
+      "outfit_visible_zh": "深蓝牛仔衬衫、米裤、棕色单肩包",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f127",
+      "page": "17.webp",
+      "figure_id": "127",
+      "box": [
+        0.326087,
+        0.682733,
+        0.155922,
+        0.217691
+      ],
+      "framing": "half",
+      "action_family": "gesture",
+      "pose_zh": "上身站立轻侧倾，一手抬向太阳穴，另一手插袋",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "一手指触眉角或太阳穴，另一手插裤袋",
+      "outfit_visible_zh": "荧黄长衬衫、橄榄工装裤上段",
+      "uncertainties": [
+        "源裁片在大腿截断"
+      ],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p17-f136",
+      "page": "17.webp",
+      "figure_id": "136",
+      "box": [
+        0.737631,
+        0.696504,
+        0.152924,
+        0.185381
+      ],
+      "framing": "full",
+      "action_family": "kneeling",
+      "pose_zh": "侧向跪坐于小腿上，躯干直立并回头",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手沿大腿侧放，近侧手清晰可见",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤、黑尖头鞋后部",
+      "uncertainties": [
+        "远侧手与脚部分遮挡"
+      ],
+      "source_sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee"
+    },
+    {
+      "id": "p18-f120",
+      "page": "18.webp",
+      "figure_id": "120",
+      "box": [
+        0.386057,
+        0.209216,
+        0.203148,
+        0.180085
+      ],
+      "framing": "half",
+      "action_family": "sitting",
+      "pose_zh": "坐地向后支撑，双膝抬起并向身前收拢",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "一手向身侧撑地，另一手被身体遮挡",
+      "outfit_visible_zh": "棕条纹上衣、荧黄宽裤、黑尖头鞋局部",
+      "uncertainties": [
+        "源裁片左边截断撑地手，右边截断部分腿脚"
+      ],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f085",
+      "page": "18.webp",
+      "figure_id": "085",
+      "box": [
+        0.669415,
+        0.178496,
+        0.190405,
+        0.349576
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "站立全身侧弯，一臂拱过头顶，另一臂向下垂",
+      "gaze_zh": "仰头看向上举手附近",
+      "expression_zh": "平静",
+      "hands_zh": "一手在头顶上方掌心向外，另一手自然垂落",
+      "outfit_visible_zh": "黑流苏衬衫、黑宽裤、棕尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f183",
+      "page": "18.webp",
+      "figure_id": "183",
+      "box": [
+        0.131934,
+        0.37447,
+        0.167916,
+        0.209216
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面站立吹泡泡糖，一肩放松",
+      "gaze_zh": "看镜头",
+      "expression_zh": "吹泡泡，眼神平静",
+      "hands_zh": "一手插口袋，另一手沿外套前侧垂下",
+      "outfit_visible_zh": "棕橘皮外套、绿色裤上段",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f061",
+      "page": "18.webp",
+      "figure_id": "061",
+      "box": [
+        0.453523,
+        0.358581,
+        0.236132,
+        0.303496
+      ],
+      "framing": "full",
+      "action_family": "gesture",
+      "pose_zh": "交叉腿站立，一臂横向外伸，手腕下垂；身体微侧弯",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "一手平搭胸前，另一手伸向侧面并松垂手指",
+      "outfit_visible_zh": "棕长袖叠灰棕蕾丝背心、格纹短裙、黄黑花纹跟鞋",
+      "uncertainties": [
+        "伸臂形成的矩形框左下可能包含邻近092人像的局部；不可用固定网格裁切",
+        "矩形框还可能包含上方120的鞋裤碎片，采用前查看裁片。"
+      ],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f092",
+      "page": "18.webp",
+      "figure_id": "092",
+      "box": [
+        0.310345,
+        0.444915,
+        0.217391,
+        0.302966
+      ],
+      "framing": "full",
+      "action_family": "gesture",
+      "pose_zh": "双脚分开站立，双肘向外，双手把长发向两侧拉开",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静偏严肃",
+      "hands_zh": "双手分别握住两侧头发",
+      "outfit_visible_zh": "棕长袖叠灰棕蕾丝背心、格纹短裙、黄黑花纹跟鞋",
+      "uncertainties": [],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f149",
+      "page": "18.webp",
+      "figure_id": "149",
+      "box": [
+        0.065217,
+        0.579979,
+        0.231634,
+        0.271186
+      ],
+      "framing": "full",
+      "action_family": "leaning",
+      "pose_zh": "站姿大幅向前折腰，上身近水平，头向前伸",
+      "gaze_zh": "望画面右侧",
+      "expression_zh": "平静",
+      "hands_zh": "双手收在后腰背部，部分被衣服遮挡",
+      "outfit_visible_zh": "浅蓝衬衫、黑流苏腰饰、黑宽裤、棕尖头鞋",
+      "uncertainties": [],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f138",
+      "page": "18.webp",
+      "figure_id": "138",
+      "box": [
+        0.769865,
+        0.525953,
+        0.156672,
+        0.15678
+      ],
+      "framing": "close",
+      "action_family": "leaning",
+      "pose_zh": "近景身体前倾，一掌托住头侧，另一前臂横置身前",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静略倦",
+      "hands_zh": "一掌贴太阳穴面侧，另一手与前臂横搭在下方",
+      "outfit_visible_zh": "深蓝牛仔衬衫",
+      "uncertainties": [
+        "源裁片下缘和右边截断，支撑台面不可见"
+      ],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    },
+    {
+      "id": "p18-f094",
+      "page": "18.webp",
+      "figure_id": "094",
+      "box": [
+        0.628936,
+        0.629767,
+        0.166417,
+        0.24947
+      ],
+      "framing": "half",
+      "action_family": "standing",
+      "pose_zh": "正面直立，双臂自然放松，单肩背包",
+      "gaze_zh": "看镜头",
+      "expression_zh": "平静",
+      "hands_zh": "双手自然垂于两侧，部分被包与衣物遮挡",
+      "outfit_visible_zh": "深蓝牛仔衬衫、米色裤、棕色单肩包",
+      "uncertainties": [
+        "源裁片在大腿截断，鞋不可见"
+      ],
+      "source_sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899"
+    }
+  ]
+}

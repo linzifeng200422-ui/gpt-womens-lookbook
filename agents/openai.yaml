@@ -1,0 +1,4 @@
+interface:
+  display_name: "女装 Lookbook"
+  short_description: "按服装版型与风格搭配动作、眼神和表情，保留身份与商品细节"
+  default_prompt: "使用 $gpt-womens-lookbook，根据我的模特、服装和场景制作一组女装 Lookbook。"

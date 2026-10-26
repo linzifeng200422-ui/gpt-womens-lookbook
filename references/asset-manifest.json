@@ -1,0 +1,120 @@
+{
+  "created": "2026-10-26",
+  "assets": [
+    {
+      "path": "assets/pose-pages/01.webp",
+      "sha256": "c51d4a60699c6c91a87ff3e3c071613c763240982446a6fe01a2823333233d13",
+      "bytes": 167896
+    },
+    {
+      "path": "assets/pose-pages/02.webp",
+      "sha256": "33b988341c372cc74d264d3f10843f89270de872bdd912903ebe8f6ff5e09dd0",
+      "bytes": 165334
+    },
+    {
+      "path": "assets/pose-pages/03.webp",
+      "sha256": "4c5baaa8bd4a9b920cb7cca0c8aa8cf0ecf6d6aacea32d495a2f94976acf7733",
+      "bytes": 168344
+    },
+    {
+      "path": "assets/pose-pages/04.webp",
+      "sha256": "3ccf23786e2b2967e91ad0101feac5abdf3d0360767eea17eaf9ba933cd48614",
+      "bytes": 164862
+    },
+    {
+      "path": "assets/pose-pages/05.webp",
+      "sha256": "541abfd8333241412929923caddb0f89e4a74198d4a013d960cd62609db7dcce",
+      "bytes": 162658
+    },
+    {
+      "path": "assets/pose-pages/06.webp",
+      "sha256": "855afd420da03da66a8fb7ab4aa34e46120b9191e77044f0ee4d441e214fe11d",
+      "bytes": 173932
+    },
+    {
+      "path": "assets/pose-pages/07.webp",
+      "sha256": "d850c3398bd5e7c32b315f26acaa3c14a573c5063611e564b2183cad7de5208c",
+      "bytes": 166802
+    },
+    {
+      "path": "assets/pose-pages/08.webp",
+      "sha256": "1e17a7fd0fb153d3ccc2aa480717b60f35d9c83acfe42840ae9c8dbdd3e0f6ba",
+      "bytes": 168042
+    },
+    {
+      "path": "assets/pose-pages/09.webp",
+      "sha256": "6f3e7bcaa9d98d5f5a688033523d71cba1d64a49cfb1b4377a31ee0583d5e6d1",
+      "bytes": 167398
+    },
+    {
+      "path": "assets/pose-pages/10.webp",
+      "sha256": "cde33f8275404130299079ca21827da5d4256598980a8f028e1e9b5826c2d844",
+      "bytes": 174996
+    },
+    {
+      "path": "assets/pose-pages/11.webp",
+      "sha256": "76ceee4c3d3bae1f556335327823eb1ba0861b63f541da74d81e1e1617b2379d",
+      "bytes": 170946
+    },
+    {
+      "path": "assets/pose-pages/12.webp",
+      "sha256": "8a96fd46cae1d09d61fd82853c4ba567e631151f14737ec1f21123eb816f2d68",
+      "bytes": 164404
+    },
+    {
+      "path": "assets/pose-pages/13.webp",
+      "sha256": "ad77def9a917714f8c1dca55eef60392bc937f2b8f4c1240ccf3f0ff1c614c5e",
+      "bytes": 162870
+    },
+    {
+      "path": "assets/pose-pages/14.webp",
+      "sha256": "60f21ad162766b22ae1aeb16b59edb01422bcceb5866ad52f5b514d12bbe0b0e",
+      "bytes": 157050
+    },
+    {
+      "path": "assets/pose-pages/15.webp",
+      "sha256": "53b928b76b04c37bdc4ef3d2f85ac5fa202c640b75d7824603f2c0e954143325",
+      "bytes": 164072
+    },
+    {
+      "path": "assets/pose-pages/16.webp",
+      "sha256": "a6506a1124520b4f734700c180111e4ade769dae565cce0ce20f1a7d0c29c1d6",
+      "bytes": 162708
+    },
+    {
+      "path": "assets/pose-pages/17.webp",
+      "sha256": "cf4857d8ca091cdc75dedd60a8999a3ce9a8c7e46bf2493162e8f0b51217b3ee",
+      "bytes": 164946
+    },
+    {
+      "path": "assets/pose-pages/18.webp",
+      "sha256": "de72ec8d1597791833947433bae3028d962fe9eb9eb6bf0825d9731942ca9899",
+      "bytes": 166514
+    },
+    {
+      "path": "assets/pose-pages/19.webp",
+      "sha256": "f736015a4db71b019ec8c1cf7521d8e2057a6c1ab165e5dd06a7585745f5b37a",
+      "bytes": 347212
+    },
+    {
+      "path": "assets/tutorial-frames/source-025s.jpg",
+      "sha256": "301231daec3f00fd239587a7eb934626a24b86f65affe863537d2e254e8f8863",
+      "bytes": 136333
+    },
+    {
+      "path": "assets/tutorial-frames/source-065s.jpg",
+      "sha256": "ab5ac42e9bf0b1f86d53945468a330a4a313ed2f18e7b8c891c210b3a3fee551",
+      "bytes": 114279
+    },
+    {
+      "path": "assets/tutorial-frames/source-085s.jpg",
+      "sha256": "74021b22d940953ad32d8379a764d8c3b34b54f78454399e1c9c32bf2fab4561",
+      "bytes": 183192
+    },
+    {
+      "path": "assets/tutorial-frames/source-110s.jpg",
+      "sha256": "e1cacbc312190415e796d2effc4aa075cae1be05b16405fdc3873d1d04e480c8",
+      "bytes": 223857
+    }
+  ]
+}
