@@ -1,5 +1,7 @@
 # 女装 Lookbook Skill (gpt-womens-lookbook)
 
+> **统一维护入口**：女装 Lookbook 已并入 [fashion-visual-workflows 总仓库](https://github.com/linzifeng200422-ui/fashion-visual-workflows)。请使用总库中的 [完整女装子包](https://github.com/linzifeng200422-ui/fashion-visual-workflows/tree/main/skills/gpt-womens-lookbook)；本仓库保留文件和旧链接供兼容访问。
+
 基于公开女装摄影教程重建的 Lookbook 动作与提示词工作流。通过“衣服先行”原则，根据模特的服装版型、结构与风格情绪，从随包动作库中匹配动作、眼神与表情，支持只生成提示词或串行生成多姿势系列图。
 
 > **公开发布说明**：本项目已经用户授权公开发布。包内包含完整动作原页、视频证据帧、动作区域索引、提示词模板及离线查询校验工具。
